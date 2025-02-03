@@ -183,7 +183,8 @@ In conclusion, the paper presents an innovative framework for urban governance t
 
 ## Conceptual Diagram
 
-```mermaid
+```
+mermaid
 graph TD
 A[Urban Challenges] --> B[Transformation Room Framework]
 B --> C[Stakeholder Negotiation & Co-Creation]
