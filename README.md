@@ -181,9 +181,15 @@ In conclusion, the paper presents an innovative framework for urban governance t
 
 ---
 
-## Conceptual Diagram
+## Conceptual Diagram: Feedback Loop in Governance
 
-
+```mermaid
+graph TD
+A[Urban Challenges] --> B[Transformation Room Framework]
+B --> C[Stakeholder Negotiation & Co-Creation]
+C --> D[Policy Implementation & Governance Adaptation]
+D --> E[Monitoring, Feedback & Continuous Improvement]
+E --> B
 
 ## References
 1. Gudrun Rita Haindlmaier, Petra Wagner, Doris Wilhelmer. *Transformation Rooms: Building Transformative Capacity for European Cities*. International Journal of Urban Planning and Smart Cities, Vol. 2, Issue 2, 2021.
