@@ -98,7 +98,7 @@ The paper's main contributions are:
 ### Importance Within the Broader Context of the Field
 These findings are important because they provide a **quantitative basis** for evaluating the effectiveness of participatory governance frameworks. For instance, using **regression analysis** allows us to understand the impact of specific interventions (such as citizen participation) on policy outcomes. This is a crucial step toward **evidence-based policy-making** in urban governance.
 
-Additionally, by integrating mathematical models, the paper advances the field by introducing **dynamic systems** to model urban governance as an adaptive process, offering a new **computational approach** to study the scalability and flexibility of governance models in complex urban environments.
+Additionally, by integrating mathematical models, the paper advances the field by introducing **dynamic systems** to model urban governance as an adaptive process, offering a new **computational approach** to study the scalability and flexibility of governance models in complex urban environments..
 
 ### Implications for Future Research or Practice
 The paper’s findings suggest several areas for future research, particularly in **quantitative modeling** of urban governance:
